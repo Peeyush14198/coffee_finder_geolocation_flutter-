@@ -29,3 +29,9 @@ samples, guidance on mobile development, and a full API reference.
 - Google Maps Webservices -> To get nearby shops (https://pub.dartlang.org/packages/google_maps_webservice)
 - Url Launcher -> (https://pub.dartlang.org/packages/url_launcher)
 
+<H2>Images<H2>
+<img src = "images/Screenshot_20190412-025332.jpg" height = "300" width = "300">
+<br>
+<img src = "images/Screenshot_20190412-025340.jpg" height = "300" width = "300">
+<br>
+<img src = "images/Screenshot_20190412-025355_Maps.jpg" height = "300" width = "300">
