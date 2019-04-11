@@ -24,10 +24,10 @@ samples, guidance on mobile development, and a full API reference.
 
 <H2>Api Used<H2>
 
-- Location - > To get current location of the user (https://pub.dartlang.org/packages/location) 
-- Google Maps - > To integerate google maps (https://pub.dartlang.org/packages/google_maps_flutter)
-- Google Maps Webservices -> To get nearby shops (https://pub.dartlang.org/packages/google_maps_webservice)
-- Url Launcher -> (https://pub.dartlang.org/packages/url_launcher)
+- [Location : To get current location of the user](https://pub.dartlang.org/packages/location)  
+- [Google Maps : To integerate google maps](https://pub.dartlang.org/packages/google_maps_flutter)
+- [Google Maps Webservices : To get nearby shops](https://pub.dartlang.org/packages/google_maps_webservice)
+- [Url Launcher](https://pub.dartlang.org/packages/url_launcher)
 
 <H2>Images<H2>
 <img src = "images/Screenshot_20190412-025332.jpg" height = "300" width = "300">
